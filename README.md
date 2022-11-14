@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm **Paul**, a passionate Computer Science student based in Grenoble 🇫🇷
+
+## 🌐Socials
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@paulvrn_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-vernin) 
+
+[![](https://visitcount.itsvg.in/api?id=Paul-vrn&label=Profile%20Views&color=3&icon=3&pretty=true)](https://visitcount.itsvg.in)
