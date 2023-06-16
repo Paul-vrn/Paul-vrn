@@ -30,7 +30,7 @@ I'm **Paul**, a passionate Computer Science student based in Grenoble 🇫🇷
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)   
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?styleflat&logo=expo&logoColor=#D04A37)
