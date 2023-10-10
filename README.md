@@ -51,15 +51,13 @@ I'm **Paul**, a passionate Computer Science student based in Grenoble 🇫🇷
 ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?styleflat&logo=ovh&logoColor=#123F6D)  
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?styleflat&logo=bitwarden&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
-
-[![An image of @paulvrn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/paulvrn)](https://holopin.io/@paulvrn)
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?styleflat&logo=Cloudflare&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
-
 [![](https://visitcount.itsvg.in/api?id=Paul-vrn&label=Profile%20Views&color=3&icon=3&pretty=true)](https://visitcount.itsvg.in)
+
+[![An image of @paulvrn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/paulvrn)](https://holopin.io/@paulvrn)
 
 ![](https://github-readme-stats.vercel.app/api?username=Paul-vrn&theme=blue-green)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-vrn&theme=blue-green)
