@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm **Paul**, a passionate Computer Science student based in Grenoble 🇫🇷
+- 🔭 I’m currently working on [Mattermost](https://github.com/mattermost) as an OpenSource contributor.
+- 🥳 Planted my first Tree for #Hacktoberfest2023 ! ([certificate](https://tree-nation.com/certificate/652ed7e85b02f))
 
 ## 🌐Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@paulvrn_) 
