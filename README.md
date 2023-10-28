@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 I'm **Paul**, a passionate Computer Science student based in Grenoble 🇫🇷
 - 🔭 I’m currently working on [Mattermost](https://github.com/mattermost) as an OpenSource contributor.
 - 🥳 Planted my first Tree for #Hacktoberfest2023 ! ([certificate](https://tree-nation.com/certificate/652ed7e85b02f))
+- 🔗 You can find me on [Linkedin](https://www.linkedin.com/in/paul-vernin/) also.
 
-## 🌐Socials
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@paulvrn_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-vernin) 
+[![An image of @paulvrn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/paulvrn)](https://holopin.io/@paulvrn)
 
 # 💻Tech Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
@@ -58,8 +57,6 @@ I'm **Paul**, a passionate Computer Science student based in Grenoble 🇫🇷
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
 [![](https://visitcount.itsvg.in/api?id=Paul-vrn&label=Profile%20Views&color=3&icon=3&pretty=true)](https://visitcount.itsvg.in)
-
-[![An image of @paulvrn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/paulvrn)](https://holopin.io/@paulvrn)
 
 ![](https://github-readme-stats.vercel.app/api?username=Paul-vrn&theme=blue-green)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-vrn&theme=blue-green)
