@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Paul, a passionate Backend Software Engineer currently working at HubSpot in Dublin 🇮🇪.
-- 📖 Ensimag Graduate (2024), France's top-ranked engineering school specialized in Computer Science 🇫🇷 (Class of 2024).
-- 📖 Alumnu of the Ensimag Class of 2024, the top-ranked engineering school specializing in Computer Science in France 🇫🇷.
-- 🔭 Worked on the OpenSource project [Mattermost](https://github.com/mattermost) and aspire to return to it once I settle into my current role at HS 😕
+- 📖 Ensimag Graduate 2024, French top Eng school spe in CompSci 🇫🇷
+- 🔭 Worked on the OpenSource project [Mattermost](https://github.com/mattermost) with plans to contribute again when time allows.
 - 🌱 Celebrated #Hacktoberfest2023 by planting my first tree! ([certificate](https://tree-nation.com/certificate/652ed7e85b02f))
 - 🔗 Connect with me on [Linkedin](https://www.linkedin.com/in/paul-vernin/) also.
 
